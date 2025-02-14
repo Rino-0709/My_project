@@ -1,0 +1,9 @@
+{
+  "name": "My_project",
+  "version": "1.0.0",
+  "description": "project for university",
+  "main": "index.js",
+  "repository": "https://github.com/Rino-0709/My_project.git",
+  "author": "Rino-0709 <spehlplay0709@gmail.com>",
+  "license": "MIT"
+}
